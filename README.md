@@ -1,1 +1,1 @@
-# crud_penta
+# penta_crud_suite
